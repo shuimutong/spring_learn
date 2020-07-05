@@ -11,7 +11,7 @@
 
     <modules>
         <module>basestart</module>
-        <module>transactions</module>
+        <module>mybatis</module>
     </modules>
 
     <name>spring</name>
