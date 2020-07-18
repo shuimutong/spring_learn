@@ -1,0 +1,14 @@
+server:
+  port: 8081
+
+spring:
+  profiles:
+    active:
+      - dev
+      - classroom
+      - student
+
+my:
+  name: Big大
+  age: 20
+  info: name:${my.name}--age:${my.age}

@@ -12,6 +12,7 @@
     <modules>
         <module>basestart</module>
         <module>mybatis</module>
+        <module>yml</module>
     </modules>
 
     <name>spring</name>
@@ -47,7 +48,6 @@
                 <groupId>org.projectlombok</groupId>
                 <artifactId>lombok</artifactId>
                 <version>${lombok.version}</version>
-                <scope>provided</scope>
             </dependency>
         </dependencies>
     </dependencyManagement>

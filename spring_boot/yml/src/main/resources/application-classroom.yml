@@ -1,0 +1,16 @@
+classroom:
+  clazz: 一年级
+  grade: 3班
+  seatNum: 30
+  courses:
+    - 语文
+    - 数学
+    - 英语
+    - 化学
+    - 体育
+    - 美术
+  students:
+    - name: 张三
+      age: 8
+    - name: 李四
+      age: 9
